@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-image: url("https://cdn.pixabay.com/photo/2023/02/07/13/55/forest-7774205_1280.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+input{
+    width:75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    border-style: none;
+}
+.btn:hover{
+    background-color:rgb(251, 255, 8);
+    cursor: pointer;
+}
